@@ -129,3 +129,30 @@ h1, h2 {
 .dropdown-content ul li {
     margin: 5px 0;
 }
+
+/* Footer */
+footer {
+    background-color: #004466;
+    padding: 10px;
+    text-align: center;
+}
+
+footer a {
+    color: #00b4d8;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+/* Estilo del enlace ¿Qué es el ODS 14? */
+#ods14 {
+    color: white; /* Texto en blanco */
+    text-decoration: none; /* Sin subrayado */
+    font-weight: bold;
+}
+/* Estilo del GIF */
+#gif {
+    text-align: center;
+    margin: 20px 0;
+}
